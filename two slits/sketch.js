@@ -45,7 +45,6 @@ slider4.value(140);
 function draw() {
 
 background(255);
-//stroke (255,0,0);
 noFill();
 
 l = slider1.value();
